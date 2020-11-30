@@ -15,3 +15,5 @@ Step 5: Open the "autodock_automation.py" file to start the program, and when it
 This program is used to determine which mutant (single point mutation) has the best binding energy (in other words, to which mutant does the ligand bind the most easily)
 
 I added a sample "tmafc.pdb" file for the wild-type protein, as well as a "pnp_xylose.pdbqt" file for the ligand. I set the "locations" list to eight of the residues in the active site.
+
+I DO NOT OWN THE CODE FOR THE PREPARE_RECEPTOR4.PY FILE, IT ALREADY COMES WITH MGLTOOLS 1.5.7
