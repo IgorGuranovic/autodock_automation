@@ -1,0 +1,14 @@
+receptor = mutant_W67Y.pdbqt
+ligand = pnp_xylose.pdbqt
+
+center_x = -17.6742
+center_y = 18.0661
+center_z = 58.4087
+
+size_x = 44
+size_y = 40
+size_z = 52
+
+energy_range = 4
+
+exhaustiveness = 8

@@ -1,0 +1,1 @@
+"C:/Program Files (x86)/The Scripps Research Institute/Vina/vina.exe" --receptor PDBQT_Files/mutant_W67Y.pdbqt --ligand pnp_xylose.pdbqt --config D:/autodock_automation/config.txt --log Logs/log_mutant_W67Y.txt --out Outputs/output_mutant_W67Y.pdbqt
